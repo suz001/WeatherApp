@@ -9,6 +9,7 @@ git clone https://github.com/suz001/WeatherApp.git
 
 2. Navigate to the project directory:
 ```
+cd WeatherApp
 cd weather_app
 ```
 
